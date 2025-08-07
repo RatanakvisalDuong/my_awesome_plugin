@@ -1,6 +1,6 @@
 name: my_awesome_plugin
-description: "A new Flutter plugin project."
-version: 0.0.1
+description: "A plugin I created just to practice Flutter plugin development."
+version: 0.0.3
 homepage: https://github.com/RatanakvisalDuong/my_awesome_plugin
 
 environment:
@@ -41,7 +41,7 @@ flutter:
     platforms:
       android:
         package: com.example.my_awesome_plugin
-        pluginClass: MyAwesomePlugin
+        pluginClass: MyAwesomePluginPlugin
       ios:
         pluginClass: MyAwesomePlugin
 

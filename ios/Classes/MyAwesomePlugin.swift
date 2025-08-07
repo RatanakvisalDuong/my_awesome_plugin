@@ -1,10 +1,10 @@
 import Flutter
 import UIKit
 
-public class MyAwesomePluginPlugin: NSObject, FlutterPlugin {
+public class MyAwesomePlugin: NSObject, FlutterPlugin {
   public static func register(with registrar: FlutterPluginRegistrar) {
     let channel = FlutterMethodChannel(name: "my_awesome_plugin", binaryMessenger: registrar.messenger())
-    let instance = MyAwesomePluginPlugin()
+    let instance = MyAwesomePlugin()
     registrar.addMethodCallDelegate(instance, channel: channel)
   }
 
