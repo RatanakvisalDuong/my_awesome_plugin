@@ -1,3 +1,3 @@
-## 0.0.1
+## 0.0.9
 
-* TODO: Describe initial release.
+* TODO: Make the icon and the label side by side.

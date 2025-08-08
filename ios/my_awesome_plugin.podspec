@@ -1,6 +1,6 @@
 Pod::Spec.new do |s|
   s.name             = 'my_awesome_plugin'
-  s.version          = '0.0.2'
+  s.version          = '0.0.9'
   s.summary          = 'A Flutter plugin for awesome functionality'
   s.description      = <<-DESC
 A Flutter plugin that provides device battery level monitoring, platform version detection, and text data processing capabilities.

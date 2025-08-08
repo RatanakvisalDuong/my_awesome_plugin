@@ -1,0 +1,22 @@
+PODS:
+  - Flutter (1.0.0)
+  - my_awesome_plugin (0.0.8):
+    - Flutter
+
+DEPENDENCIES:
+  - Flutter (from `Flutter`)
+  - my_awesome_plugin (from `.symlinks/plugins/my_awesome_plugin/ios`)
+
+EXTERNAL SOURCES:
+  Flutter:
+    :path: Flutter
+  my_awesome_plugin:
+    :path: ".symlinks/plugins/my_awesome_plugin/ios"
+
+SPEC CHECKSUMS:
+  Flutter: e0871f40cf51350855a761d2e70bf5af5b9b5de7
+  my_awesome_plugin: 840126780d70e6777dbb1ced9e2e8a9080096906
+
+PODFILE CHECKSUM: 4305caec6b40dde0ae97be1573c53de1882a07e5
+
+COCOAPODS: 1.16.2

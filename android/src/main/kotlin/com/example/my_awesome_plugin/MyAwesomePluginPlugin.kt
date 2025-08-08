@@ -1,9 +1,6 @@
 package com.example.my_awesome_plugin
 
 import android.content.Context
-import android.content.ContextWrapper
-import android.content.Intent
-import android.content.IntentFilter
 import android.os.BatteryManager
 import android.os.Build
 import androidx.annotation.NonNull
